@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://hvac-services-denver-co.netlify.app/sitemap.xml
+Sitemap: https://hvac.servicesdenverco.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
